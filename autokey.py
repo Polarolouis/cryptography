@@ -23,7 +23,7 @@ import string # To get the list of ASCII letters
 def generate_tabula_recta():
     """ Function to generate a tabula recta.
     Return: a tabula recta in form of a dictionnary of dictionnaries
-            A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+        A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
       ----------------------------------------------------
     A | A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
     B | B C D E F G H I J K L M N O P Q R S T U V W X Y Z A
